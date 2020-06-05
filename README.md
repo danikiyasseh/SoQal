@@ -2,7 +2,7 @@
 
 SoQal is a method that allows a learner, in an active learning setting, to dynamically alter its dependence on an oracle for labels. 
 
-This method is described in "SoQal: Selective Oracle Questioning in Active Learning" (https://arxiv.org/abs/2004.10468)
+This method is described in "SoQal: Selective Oracle Questioning in Active Learning"
 
 # Requirements
 
