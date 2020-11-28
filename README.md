@@ -1,6 +1,6 @@
-# SoQal
+# SoCal
 
-SoQal is a method that allows a learner, in an active learning setting, to dynamically alter its dependence on an oracle for labels. 
+SoCal is a method that allows a learner, in an active learning setting, to dynamically alter its dependence on an oracle for labels. 
 
 This method is described in "SoCal: Selective Oracle Questioning for Consistency-based Active Learning of Cardiac Signals"
 
