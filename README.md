@@ -2,7 +2,7 @@
 
 SoQal is a method that allows a learner, in an active learning setting, to dynamically alter its dependence on an oracle for labels. 
 
-This method is described in "SoQal: Selective Oracle Questioning in Active Learning"
+This method is described in "SoCal: Selective Oracle Questioning for Consistency-based Active Learning of Cardiac Signals"
 
 # Requirements
 
@@ -24,7 +24,7 @@ The datasets can be downloaded from the following links:
 
 ## Pre-processing
 
-In order to pre-process the datasets appropriately for SoQal, please refer to the following repository: https://anonymous.4open.science/r/9ecc66f3-e173-4771-90ce-ff35ee29a1c0/
+In order to pre-process the datasets appropriately for SoCal, please refer to the following repository: https://anonymous.4open.science/r/9ecc66f3-e173-4771-90ce-ff35ee29a1c0/
 
 # Training
 
