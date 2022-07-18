@@ -2,7 +2,7 @@
 
 SoQal is framework that allows a network to dynamically decide, upon acquiring an unlabelled data point, whether to request a label for that data point from an oracle or to pseudo-label it instead. It can reduce a network's dependence on an oracle (e.g., physician) while maintaining its strong predictive performance. 
 
-This repository contains a PyTorch implementation of CLOCS. For details, see **SoQal: Selective Oracle Questioning for Consistency Based Active Learning of Cardiac Signals**.
+This repository contains a PyTorch implementation of SoQal. For details, see **SoQal: Selective Oracle Questioning for Consistency Based Active Learning of Cardiac Signals**.
 [[paper](https://arxiv.org/abs/2004.09557)]
 
 # Requirements
